@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  color: #FFF;
+  font-size: 16px;
+}
+
+.gallery {
+  max-width: 680px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 16px;
+}
+
+.gallery img,
+.gallery video {
+  width: 100%;
+}
+
+ol.menu {
+  list-style: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: 0;
+  padding: 0;
+}
+
+ol.menu li {
+  padding: 0.5em;
+}
+
+a:link,
+a:visited,
+a:active,
+a:hover {
+  color: white;
+  background: black;
+}
