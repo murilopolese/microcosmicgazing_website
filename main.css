@@ -63,9 +63,10 @@ a:visited {
 
 /* www.murilopolese.com / murilopolese@gmail.com */
 .wwwmurilo-e940cf2be13d {
-  width: 766px;
-  height: 22px;
+  width: 100%;
+  max-width: 766px;
   flex-shrink: 0;
+  padding: 0 30px;
 }
 .wwwmurilo-e940cf2be13d .root-0 {
 
@@ -130,8 +131,9 @@ a:visited {
 2021-03-17 Gathering
 2020-12-07 Gathering */
 .c-20250228-e9156bea8be9 {
-  width: 378px;
-  height: 216px;
+  width: 100%;
+  max-width: 766px;
+  padding: 0 30px;
   flex-shrink: 0;
 }
 .c-20250228-e9156bea8be9 .root-0 {
@@ -362,9 +364,10 @@ a:visited {
 
 /* Calendar */
 .calendar-e9404e525642 {
-  width: 766px;
-  height: 44px;
+  max-width: 766px;
+  width: 100%;
   flex-shrink: 0;
+  padding: 0 30px;
 }
 .calendar-e9404e525642 .root-0 {
 
@@ -421,8 +424,9 @@ a:visited {
 
 /* From time to time we partner with different kinds of humans to explore, create and gaze together. */
 .from-time-e940c86aa5de {
-  width: 766px;
-  height: 44px;
+  padding: 0 30px;
+  width: 100%;
+  max-width: 766px;
   flex-shrink: 0;
 }
 .from-time-e940c86aa5de .root-0 {
@@ -464,13 +468,12 @@ a:visited {
 
 /* We meet to wonder about the microscopic, microbiotic, microcosmic reality around and inside us.  */
 .we-meet-to-e940c86aa5df {
-  width: 766px;
-  height: 44px;
+  width: 100%;
+  max-width: 766px;
   flex-shrink: 0;
+  padding: 0 30px;
 }
 .we-meet-to-e940c86aa5df .root-0 {
-
-
   display: flex;
   white-space: break-spaces;
   align-items: flex-start;
@@ -1014,9 +1017,10 @@ a:visited {
 /* Microcosmic Gazing is a
 gathering and a performance. */
 .microcosmi-e94086ab6130 {
-  width: 766px;
-  height: 108px;
+  width: 100%;
+  max-width: 766px;
   flex-shrink: 0;
+  padding: 0 30px;
 }
 .microcosmi-e94086ab6130 .root-0 {
 
